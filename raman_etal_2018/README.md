@@ -21,4 +21,3 @@ It also has a class out_class, which stores info from the training run.
 figure_x.py is the code from which figure x was made in the paper. Figure 6 is made up of the output of
  two scripts: Figure_6_linear.py and Figure_6_nonlinear.py.
 
-Apologies in advance for the cryptic coding! This was my first time using Python.
